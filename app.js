@@ -20,6 +20,9 @@ var options = {
     },
     toolbar: {
       autoSelected: "zoom",
+      tools: {
+        download: false
+      }
     },
   },
   dataLabels: {
