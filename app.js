@@ -22,7 +22,8 @@ var options = {
       autoSelected: "zoom",
       tools: {
         download: false
-      }
+      },
+      show:false
     },
   },
   dataLabels: {
